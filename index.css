@@ -1,5 +1,8 @@
 .section-green {
 	background-color: brown;
+	display:flex;
+	flex-wrap:wrap-reverse;
+	font-size: 100px;
 }
 
 .section-blue {
